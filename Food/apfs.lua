@@ -1,9 +1,9 @@
 local name = "apfs"
-local version = "1.0.9"
+local version = "1.0.10"
 
 food = {
     name = name,
-    description = "MachO ARMv9-a apfsembler",
+    description = "APFS parser written in pure Go",
     license = "MIT",
     homepage = "https://github.com/blacktop/go-apfs",
     version = version,
@@ -11,8 +11,8 @@ food = {
         {
             os = "darwin",
             arch = "amd64",
-            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.9/apfs_1.0.9_macOS_universal.tar.gz",
-            sha256 = "919fff44be3a0814b665884bfd9d47c432a9e28816472335e26e3239748c478d",
+            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.10/apfs_1.0.10_macOS_universal.tar.gz",
+            sha256 = "07c269ec5c0003bccc3a1251c5e1b6c3a4249b5fa297fddb5029d72c51daf55e",
             resources = {
                 {
                     path = "apfs",
@@ -24,8 +24,8 @@ food = {
         {
             os = "darwin",
             arch = "arm64",
-            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.9/apfs_1.0.9_macOS_universal.tar.gz",
-            sha256 = "919fff44be3a0814b665884bfd9d47c432a9e28816472335e26e3239748c478d",
+            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.10/apfs_1.0.10_macOS_universal.tar.gz",
+            sha256 = "07c269ec5c0003bccc3a1251c5e1b6c3a4249b5fa297fddb5029d72c51daf55e",
             resources = {
                 {
                     path = "apfs",
