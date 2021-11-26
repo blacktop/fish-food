@@ -1,5 +1,5 @@
 local name = "lporg"
-local version = "20.4.6"
+local version = "20.4.7"
 
 food = {
     name = name,
@@ -11,8 +11,8 @@ food = {
         {
             os = "darwin",
             arch = "amd64",
-            url = "https://github.com/blacktop/lporg/releases/download/v20.4.6/lporg_20.4.6_macOS_universal.tar.gz",
-            sha256 = "cade1f138ab750449c001ff03c61880a116103fa4f042445796676d94bda92c0",
+            url = "https://github.com/blacktop/lporg/releases/download/v20.4.7/lporg_20.4.7_macOS_universal.tar.gz",
+            sha256 = "4a13ee5ead8b14e9609949c465858cbbb4aa24c96afd23599fb04c5a528cf0c8",
             resources = {
                 {
                     path = "lporg",
@@ -24,8 +24,8 @@ food = {
         {
             os = "darwin",
             arch = "arm64",
-            url = "https://github.com/blacktop/lporg/releases/download/v20.4.6/lporg_20.4.6_macOS_universal.tar.gz",
-            sha256 = "cade1f138ab750449c001ff03c61880a116103fa4f042445796676d94bda92c0",
+            url = "https://github.com/blacktop/lporg/releases/download/v20.4.7/lporg_20.4.7_macOS_universal.tar.gz",
+            sha256 = "4a13ee5ead8b14e9609949c465858cbbb4aa24c96afd23599fb04c5a528cf0c8",
             resources = {
                 {
                     path = "lporg",
