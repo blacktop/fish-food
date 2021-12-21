@@ -1,5 +1,5 @@
 local name = "disass"
-local version = "1.0.47"
+local version = "1.0.48"
 
 food = {
     name = name,
@@ -11,8 +11,8 @@ food = {
         {
             os = "darwin",
             arch = "amd64",
-            url = "https://github.com/blacktop/arm64-cgo/releases/download/v1.0.47/disass_1.0.47_macOS_universal.tar.gz",
-            sha256 = "2c5852f8e111637b40b941e354e64d31c72ff13da9dc44ccde3d3efb76c7eca2",
+            url = "https://github.com/blacktop/arm64-cgo/releases/download/v1.0.48/disass_1.0.48_macOS_universal.tar.gz",
+            sha256 = "f304240117c0592864b708b805cfebd269909300258a3aa295f7d844090f30df",
             resources = {
                 {
                     path = "disass",
@@ -24,8 +24,8 @@ food = {
         {
             os = "darwin",
             arch = "arm64",
-            url = "https://github.com/blacktop/arm64-cgo/releases/download/v1.0.47/disass_1.0.47_macOS_universal.tar.gz",
-            sha256 = "2c5852f8e111637b40b941e354e64d31c72ff13da9dc44ccde3d3efb76c7eca2",
+            url = "https://github.com/blacktop/arm64-cgo/releases/download/v1.0.48/disass_1.0.48_macOS_universal.tar.gz",
+            sha256 = "f304240117c0592864b708b805cfebd269909300258a3aa295f7d844090f30df",
             resources = {
                 {
                     path = "disass",
