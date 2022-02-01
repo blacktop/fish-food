@@ -1,5 +1,5 @@
 local name = "apfs"
-local version = "1.0.13"
+local version = "1.0.14"
 
 food = {
     name = name,
@@ -11,8 +11,8 @@ food = {
         {
             os = "darwin",
             arch = "amd64",
-            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.13/apfs_1.0.13_macOS_universal.tar.gz",
-            sha256 = "37837193c1efae47626731fe97d6274990539292600a4b1eef0608f75ac6bd06",
+            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.14/apfs_1.0.14_macOS_universal.tar.gz",
+            sha256 = "5cd10e24509aa4008808b93fa22efd8cc3ce826e02a1a6c808a8f72df4d20f23",
             resources = {
                 {
                     path = "apfs",
@@ -24,8 +24,8 @@ food = {
         {
             os = "darwin",
             arch = "arm64",
-            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.13/apfs_1.0.13_macOS_universal.tar.gz",
-            sha256 = "37837193c1efae47626731fe97d6274990539292600a4b1eef0608f75ac6bd06",
+            url = "https://github.com/blacktop/go-apfs/releases/download/v1.0.14/apfs_1.0.14_macOS_universal.tar.gz",
+            sha256 = "5cd10e24509aa4008808b93fa22efd8cc3ce826e02a1a6c808a8f72df4d20f23",
             resources = {
                 {
                     path = "apfs",
