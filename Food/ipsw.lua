@@ -12,7 +12,7 @@ food = {
             os = "darwin",
             arch = "arm64",
             url = "https://github.com/blacktop/ipsw/releases/download/v3.1.62/ipsw_macOS_arm64.tar.gz",
-            sha256 = "f988bbd9edf2e36a995075a341d99938c7c64c8d1f9dc13ddb5a3a0ccf305ee5",
+            sha256 = "3955379bfa73e9c1158facc4c30fcb237cdca2ef3f06fae69234a883cb133f37",
             resources = {
                 {
                     path = "ipsw",
@@ -25,7 +25,7 @@ food = {
             os = "darwin",
             arch = "amd64",
             url = "https://github.com/blacktop/ipsw/releases/download/v3.1.62/ipsw_macOS_x86_64.tar.gz",
-            sha256 = "e15f5ca67175a440b487f2f339eb7b3c4167eaceac703bd0004c760ff0247f3f",
+            sha256 = "4a2b7f871243a2b73026e8f60261481777521f6fd10ca401d86b80965a15a9af",
             resources = {
                 {
                     path = "ipsw",
